@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.2" uuid="l10n-sodi-Lsdf">
+  <file original="joaisjd0j213/jsa9odijf/joijasodfj">
+    <header>
+      <sxmd:metadata xmlns:sxmd="urn:x-sap:mlt:xliff12:metadata:1.0" xmlns="urn:x-sap:mlt:tsmetadata:1.0">
+        <object-name>tutorial1</object-name>
+        <collection>SHOPS</collection>
+        <domain>CA</domain>
+        <developer>A180987</developer>
+        <description>XLIFF file for shop app</description>
+      </sxmd:metadata>
+    </header>
+    <body>
+      <transunit id="hoaisdjfo" resname="app_name" x-ec="&gt;&lt;" x-ingested="2022-10-14">
+        <source>joij2oijfaosdjfoaisjdf 1</source>
+        <target state="signed-off">ehsodfijo</target>
+        <note>
+-~-~- BEGIN V2 AUTO NOTE -~-~-
+Enclosing Characters: &gt;&lt;
+File: joij2i3jojsdfij
+Resname: app_name
+-------
+          Ingested: 2022-10-14 | Test Case: 72, 23
+-~-~- END V2 AUTO NOTE -~-~-
+</note>
+      </transunit>
+      <transunit id="joaijsoj" resname="app_name" x-ec="&gt;&lt;" x-ingested="2022-10-14">
+        <source>joij2oijfaosdjfoaisjdf 2</source>
+        <target state="needs-translation">joaisjf928jsaojfoawijf</target>
+        <note>
+-~-~- BEGIN V2 AUTO NOTE -~-~-
+Enclosing Characters: &gt;&lt;
+File: josidjf236489h9sdhf9h9h8f9ashdf98h
+Resname: app_name
+-------
+          Ingested: 2022-10-14 | Test Case: 72, 23
+-~-~- END V2 AUTO NOTE -~-~-
+</note>
+      </transunit>
+      <transunit id="jo23ji23" resname="app_name" x-ec="&gt;&lt;" x-ingested="2022-10-14">
+        <source>joij2oijfaosdjfoaisjdf 3</source>
+        <target state="needs-translation">joasidjf92jowajdfaos</target>
+        <note>
+-~-~- BEGIN V2 AUTO NOTE -~-~-
+Enclosing Characters: &gt;&lt;
+File: j9283749238oijsfadfjasodfijoi
+Resname: app_name
+-------
+          Ingested: 2022-10-14 | Test Case: 72, 23
+-~-~- END V2 AUTO NOTE -~-~-
+</note>
+      </transunit>
+      <transunit translate="no" id="j293879jdhf" resname="app_name" x-ec="&gt;&lt;" x-ingested="2022-10-14">
+        <source>joij2oijfaosdjfoaisjdf 4</source>
+        <target state="needs-translation">joasijdfo2ij3oijsaodfij</target>
+        <note>
+-~-~- BEGIN V2 AUTO NOTE -~-~-
+Enclosing Characters: &gt;&lt;
+File: joi98yu9j9j9j9j98j98j9nafsodfjasdfjafsj
+Resname: app_name
+-------
+          Ingested: 2022-10-14 | Test Case: 72, 23
+-~-~- END V2 AUTO NOTE -~-~-
+</note>
+      </transunit>
+      <transunit id="298ujdijfoj" resname="app_name" x-ec="&gt;&lt;" x-ingested="2022-10-14">
+        <source>joij2oijfaosdjfoaisjdf 5</source>
+        <target state="needs-translation">joasdijf92839ysad9fhjas9f8</target>
+        <note>
+-~-~- BEGIN V2 AUTO NOTE -~-~-
+Enclosing Characters: &gt;&lt;
+File: joasijdfo2ij3oijaosdjf
+Resname: app_name
+-------
+          Ingested: 2022-10-14 | Test Case: 72, 23
+-~-~- END V2 AUTO NOTE -~-~-
+</note>
+      </transunit>
+      <transunit id="jojjijjjji" resname="app_name" x-ec="&gt;&lt;" x-ingested="2022-10-14">
+        <source>joij2oijfaosdjfoaisjdf 6</source>
+        <target state="needs-review-translation">joisajdfoijasodijfoj</target>
+        <note>
+-~-~- BEGIN V2 AUTO NOTE -~-~-
+Enclosing Characters: &gt;&lt;
+File: j982joasjdfaisjdfoij
+Resname: app_name
+-------
+          Ingested: 2022-10-14 | Test Case: 72, 23
+-~-~- END V2 AUTO NOTE -~-~-
+</note>
+      </transunit>
+      <transunit id="jisadjfoiajsf" resname="app_name" x-ec="&gt;&lt;" x-ingested="2022-10-14">
+        <source>joij2oijfaosdjfoaisjdf 7</source>
+        <target state="needs-translation">joasijdf9ij239ojf9a8udf9ashdf</target>
+        <note>
+-~-~- BEGIN V2 AUTO NOTE -~-~-
+Enclosing Characters: &gt;&lt;
+File: joijofajsdfoij
+Resname: app_name
+-------
+          Ingested: 2022-10-14 | Test Case: 72, 23
+-~-~- END V2 AUTO NOTE -~-~-
+</note>
+      </transunit>
+      <transunit translate="no" id="joijojoijojojoi" resname="app_name" x-ec="&gt;&lt;" x-ingested="2022-10-14">
+        <source>joij2oijfaosdjfoaisjdf 8</source>
+        <target state="needs-review-translation">josaidj9729379827342</target>
+        <note>
+-~-~- BEGIN V2 AUTO NOTE -~-~-
+Enclosing Characters: &gt;&lt;
+File: joij2398ufaojdofij
+Resname: app_name
+-------
+          Ingested: 2022-10-14 | Test Case: 72, 23
+-~-~- END V2 AUTO NOTE -~-~-
+</note>
+      </transunit>
+    </body>
+  </file>
+</xliff>
